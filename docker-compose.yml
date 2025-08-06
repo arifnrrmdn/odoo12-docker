@@ -5,7 +5,7 @@ services:
     depends_on:
       - postgres-9.5
     ports:
-      - "9999:8069"
+      - "2512:8069"
     volumes:
       - odoo-data-volume:/var/lib/odoo
       - ./config:/etc/odoo
