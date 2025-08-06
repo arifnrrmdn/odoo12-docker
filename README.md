@@ -43,7 +43,7 @@ Panduan ini menjelaskan langkah-langkah untuk melakukan setup lingkungan pengemb
       ```bash
       docker-compose up
       ```
-    - Setelah container berjalan, Odoo dapat diakses melalui `http://localhost:9999`.
+    - Setelah container berjalan, Odoo dapat diakses melalui `http://localhost:2512`.
 
 6. **Debugging dan Monitoring**
     - Jika terjadi masalah, lakukan debugging dengan melihat log container menggunakan:
